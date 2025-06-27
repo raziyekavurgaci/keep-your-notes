@@ -1,4 +1,4 @@
-<!-- # 📝 Not Alma Uygulaması (Backend)
+<!-- # 📝 Not Alma Uygulaması (Backend..)
 
 Basit bir not alma uygulamasının NestJS ile hazırlanmış RESTful API servisidir. Kullanıcı girişi olmadan, tüm notlara erişim sağlanabilir. İleride kimlik doğrulama (JWT) eklenerek genişletilebilir.
 
